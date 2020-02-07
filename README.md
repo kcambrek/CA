@@ -1,0 +1,2 @@
+# CA
+Cellular automata exploration
